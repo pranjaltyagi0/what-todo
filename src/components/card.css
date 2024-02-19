@@ -1,8 +1,16 @@
-    .cardContainerExternal{
+    /* .cardContainerExternal{
     background-color: aliceblue;
     color: black;
     border: 6px solid yellowgreen;
     border-radius: 8px;
     height: 200px;
     width: 250px;
-}
+} */
+    .cardContainerInternal input {
+        background-color: aliceblue;
+        color: black;
+        border: 6px solid yellowgreen;
+        border-radius: 8px;
+        height: 200px;
+        width: 250px;
+    }

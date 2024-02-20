@@ -1,4 +1,18 @@
 body{
   background-color: black;
   color: antiquewhite;
+  width: auto;
+  height: auto;
+
+}
+*{
+  box-sizing: border-box;
+}
+.OutsideContainer{
+  width: 100vw;
+  height: 100vh;
+}
+.newPopupButton{
+  display: flex;
+  justify-content: center   ;
 }
